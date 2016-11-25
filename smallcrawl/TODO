@@ -1,0 +1,19 @@
+Features:
+        > Smarter management of 492 (too many requests) and similar HTTP responses requiring a wait period before continuing
+        > Log of errors encountered
+        > Respect robots.txt
+
+Improvements:
+        > Move crawl to iterative - don't want to exceed max stack depth on big sites
+          - will require big changes to the way testing works...
+        > Better variety of sites in test_system.py
+        > More useful error repoting on test failures, particularly in test_system.py
+        > Should we really visit http://test.com/link when we've already visited http://test.com/link/
+
+Refactor:
+        > Extract mock and compare pattern in test_crawler.py
+        > Move expected assets and links for test pages out of code into page files
+
+Fixes:
+        > Complete test stubs in test_crawler.py
+        > Add missing tests for get_page.py error throwing functionality

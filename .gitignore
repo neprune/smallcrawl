@@ -1,0 +1,20 @@
+# python cache
+*.cache/
+
+# egg data
+*.eggs/
+
+# tox stuff
+*.tox/
+
+# compiled python modules
+*.pyc
+
+# python egg metadata
+*.egg-info
+
+# swap files
+*.swp
+
+# virtual env
+/venv/

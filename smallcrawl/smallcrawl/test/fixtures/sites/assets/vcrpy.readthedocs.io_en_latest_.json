@@ -1,0 +1,209 @@
+[
+  {
+    "assets": [
+      "https://secure.travis-ci.org/kevin1024/vcrpy.png?branch=master",
+      "https://media.readthedocs.org/javascript/readthedocs-doc-embed.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-data.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/js/modernizr.min.js",
+      "https://img.shields.io/pypi/v/vcrpy.svg",
+      "https://raw.github.com/kevin1024/vcrpy/master/vcr.png",
+      "https://media.readthedocs.org/javascript/doctools.js",
+      "https://media.readthedocs.org/css/readthedocs-doc-embed.css",
+      "https://media.readthedocs.org/javascript/underscore.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-migrate-1.2.1.min.js",
+      "https://badges.gitter.im/Join%20Chat.svg",
+      "https://media.readthedocs.org/css/sphinx_rtd_theme.css",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-dynamic-include.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-2.0.3.min.js",
+      "https://badge.waffle.io/kevin1024/vcrpy.png?label=ready&title=waffle"
+    ],
+    "url": "http://vcrpy.readthedocs.io/en/latest/"
+  },
+  {
+    "assets": [
+      "https://media.readthedocs.org/javascript/readthedocs-doc-embed.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-data.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/js/modernizr.min.js",
+      "https://media.readthedocs.org/javascript/doctools.js",
+      "https://media.readthedocs.org/css/readthedocs-doc-embed.css",
+      "https://media.readthedocs.org/javascript/underscore.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-migrate-1.2.1.min.js",
+      "https://media.readthedocs.org/css/sphinx_rtd_theme.css",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-dynamic-include.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-2.0.3.min.js"
+    ],
+    "url": "http://vcrpy.readthedocs.io/en/latest/installation.html"
+  },
+  {
+    "assets": [
+      "https://secure.travis-ci.org/kevin1024/vcrpy.png?branch=master",
+      "https://media.readthedocs.org/javascript/readthedocs-doc-embed.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-data.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/js/modernizr.min.js",
+      "https://img.shields.io/pypi/v/vcrpy.svg",
+      "https://raw.github.com/kevin1024/vcrpy/master/vcr.png",
+      "https://media.readthedocs.org/javascript/doctools.js",
+      "https://media.readthedocs.org/css/readthedocs-doc-embed.css",
+      "https://media.readthedocs.org/javascript/underscore.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-migrate-1.2.1.min.js",
+      "https://badges.gitter.im/Join%20Chat.svg",
+      "https://media.readthedocs.org/css/sphinx_rtd_theme.css",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-dynamic-include.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-2.0.3.min.js",
+      "https://badge.waffle.io/kevin1024/vcrpy.png?label=ready&title=waffle"
+    ],
+    "url": "http://vcrpy.readthedocs.io/en/latest/index.html"
+  },
+  {
+    "assets": [
+      "https://media.readthedocs.org/javascript/readthedocs-doc-embed.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-data.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/js/modernizr.min.js",
+      "https://media.readthedocs.org/javascript/doctools.js",
+      "https://media.readthedocs.org/css/readthedocs-doc-embed.css",
+      "https://media.readthedocs.org/javascript/underscore.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-migrate-1.2.1.min.js",
+      "https://media.readthedocs.org/css/sphinx_rtd_theme.css",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-dynamic-include.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-2.0.3.min.js"
+    ],
+    "url": "http://vcrpy.readthedocs.io/en/latest/usage.html"
+  },
+  {
+    "assets": [
+      "https://media.readthedocs.org/javascript/readthedocs-doc-embed.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-data.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/js/modernizr.min.js",
+      "https://media.readthedocs.org/javascript/doctools.js",
+      "https://media.readthedocs.org/css/readthedocs-doc-embed.css",
+      "https://media.readthedocs.org/javascript/underscore.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-migrate-1.2.1.min.js",
+      "https://media.readthedocs.org/css/sphinx_rtd_theme.css",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-dynamic-include.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-2.0.3.min.js"
+    ],
+    "url": "http://vcrpy.readthedocs.io/en/latest/contributing.html"
+  },
+  {
+    "assets": [
+      "https://media.readthedocs.org/javascript/readthedocs-doc-embed.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-data.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/js/modernizr.min.js",
+      "https://media.readthedocs.org/javascript/doctools.js",
+      "https://media.readthedocs.org/css/readthedocs-doc-embed.css",
+      "https://media.readthedocs.org/javascript/underscore.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-migrate-1.2.1.min.js",
+      "https://media.readthedocs.org/css/sphinx_rtd_theme.css",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-dynamic-include.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-2.0.3.min.js"
+    ],
+    "url": "http://vcrpy.readthedocs.io/en/latest/debugging.html"
+  },
+  {
+    "assets": [
+      "https://media.readthedocs.org/javascript/readthedocs-doc-embed.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-data.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/js/modernizr.min.js",
+      "https://media.readthedocs.org/javascript/doctools.js",
+      "https://media.readthedocs.org/css/readthedocs-doc-embed.css",
+      "https://media.readthedocs.org/javascript/underscore.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-migrate-1.2.1.min.js",
+      "https://media.readthedocs.org/css/sphinx_rtd_theme.css",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-dynamic-include.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-2.0.3.min.js"
+    ],
+    "url": "http://vcrpy.readthedocs.io/en/latest/configuration.html"
+  },
+  {
+    "assets": [
+      "https://media.readthedocs.org/javascript/readthedocs-doc-embed.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-data.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/js/modernizr.min.js",
+      "https://media.readthedocs.org/javascript/doctools.js",
+      "https://media.readthedocs.org/css/readthedocs-doc-embed.css",
+      "https://media.readthedocs.org/javascript/underscore.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-migrate-1.2.1.min.js",
+      "https://media.readthedocs.org/css/sphinx_rtd_theme.css",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-dynamic-include.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-2.0.3.min.js"
+    ],
+    "url": "http://vcrpy.readthedocs.io/en/latest/api.html"
+  },
+  {
+    "assets": [
+      "https://media.readthedocs.org/javascript/readthedocs-doc-embed.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-data.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/js/modernizr.min.js",
+      "https://media.readthedocs.org/javascript/doctools.js",
+      "https://media.readthedocs.org/css/readthedocs-doc-embed.css",
+      "https://media.readthedocs.org/javascript/underscore.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-migrate-1.2.1.min.js",
+      "https://media.readthedocs.org/css/sphinx_rtd_theme.css",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-dynamic-include.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-2.0.3.min.js"
+    ],
+    "url": "http://vcrpy.readthedocs.io/en/latest/changelog.html"
+  },
+  {
+    "assets": [
+      "https://media.readthedocs.org/javascript/readthedocs-doc-embed.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-data.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/js/modernizr.min.js",
+      "https://media.readthedocs.org/javascript/doctools.js",
+      "https://media.readthedocs.org/css/readthedocs-doc-embed.css",
+      "https://media.readthedocs.org/javascript/underscore.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-migrate-1.2.1.min.js",
+      "https://media.readthedocs.org/css/sphinx_rtd_theme.css",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-dynamic-include.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-2.0.3.min.js"
+    ],
+    "url": "http://vcrpy.readthedocs.io/en/latest/advanced.html"
+  },
+  {
+    "assets": [
+      "https://media.readthedocs.org/javascript/readthedocs-doc-embed.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-data.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/searchtools.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/js/modernizr.min.js",
+      "https://media.readthedocs.org/javascript/doctools.js",
+      "https://media.readthedocs.org/css/readthedocs-doc-embed.css",
+      "https://media.readthedocs.org/javascript/underscore.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-migrate-1.2.1.min.js",
+      "https://media.readthedocs.org/css/sphinx_rtd_theme.css",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-dynamic-include.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-2.0.3.min.js"
+    ],
+    "url": "http://vcrpy.readthedocs.io/en/latest/search.html"
+  },
+  {
+    "assets": [
+      "https://media.readthedocs.org/javascript/readthedocs-doc-embed.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-data.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/js/modernizr.min.js",
+      "https://media.readthedocs.org/javascript/doctools.js",
+      "https://media.readthedocs.org/css/readthedocs-doc-embed.css",
+      "https://media.readthedocs.org/javascript/underscore.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-migrate-1.2.1.min.js",
+      "https://media.readthedocs.org/css/sphinx_rtd_theme.css",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-dynamic-include.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-2.0.3.min.js"
+    ],
+    "url": "http://vcrpy.readthedocs.io/en/latest/genindex.html"
+  },
+  {
+    "assets": [
+      "https://media.readthedocs.org/javascript/readthedocs-doc-embed.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-data.js",
+      "http://vcrpy.readthedocs.io/en/latest/_static/js/modernizr.min.js",
+      "https://media.readthedocs.org/javascript/doctools.js",
+      "https://media.readthedocs.org/css/readthedocs-doc-embed.css",
+      "http://vcrpy.readthedocs.io/en/latest/_static/minus.png",
+      "https://media.readthedocs.org/javascript/underscore.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-migrate-1.2.1.min.js",
+      "https://media.readthedocs.org/css/sphinx_rtd_theme.css",
+      "http://vcrpy.readthedocs.io/en/latest/_static/readthedocs-dynamic-include.js",
+      "https://media.readthedocs.org/javascript/jquery/jquery-2.0.3.min.js"
+    ],
+    "url": "http://vcrpy.readthedocs.io/en/latest/py-modindex.html"
+  }
+]

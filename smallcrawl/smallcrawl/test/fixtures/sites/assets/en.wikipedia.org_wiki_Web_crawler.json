@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://en.wikipedia.org/wiki/Web_crawler",
+    "assets": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/WebCrawlerArchitecture.svg/220px-WebCrawlerArchitecture.svg.png",
+      "https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1",
+      "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Web_Crawling_Freshness_Age.png/220px-Web_Crawling_Freshness_Age.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/WebCrawlerArchitecture.svg/300px-WebCrawlerArchitecture.svg.png",
+      "https://en.wikipedia.org/static/images/wikimedia-button.png",
+      "https://en.wikipedia.org/w/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png",
+      "https://en.wikipedia.org/w/load.php?debug=false&lang=en&modules=site.styles&only=styles&skin=vector",
+      "https://en.wikipedia.org/w/load.php?debug=false&lang=en&modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&only=styles&skin=vector",
+      "https://wikimedia.org/api/rest_v1/media/math/render/svg/d1dfda1dc1dd66ec242ff2e4a515588d6611532a",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/50px-Mergefrom.svg.png",
+      "https://en.wikipedia.org/static/images/poweredby_mediawiki_88x31.png",
+      "https://wikimedia.org/api/rest_v1/media/math/render/svg/542c7504faa720e2407afc0ec6e80639896ba14d"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+Testing uses pytest.
+
+A full list of test dependencies can be found in the setup.py.
+
+To run all tests on your active python interpreter, without having to install
+the dependencies, just run:
+> python setup.py test
+
+To run tests against all supported python versions, install tox and just run:
+> tox
