@@ -62,8 +62,6 @@ On other URLS, errors are silently ignored and valid redirects are followed.
 
 ## What's next?
 
-Obviously this is a toy project. Want a Python web crawler? Checkout [scrapy](https://scrapy.org/).
-
 Some things that might interesting to work on:
 
 * Parallel crawling
