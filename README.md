@@ -62,7 +62,7 @@ On other URLS, errors are silently ignored and valid redirects are followed.
 
 ## What's next?
 
-Some things that might interesting to work on:
+Some things that might be interesting to work on:
 
 * Parallel crawling
 
